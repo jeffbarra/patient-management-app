@@ -1,0 +1,16 @@
+.search-result {
+  padding: 10px 20px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.search-result:hover {
+  background-color: var(--primary-color-light);
+  transform: scale(1.1);
+  transition: all 0.2s ease-in-out;
+}
+
+.search-result p {
+  margin: 5px;
+  font-size: 12px;
+}

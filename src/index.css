@@ -1,0 +1,26 @@
+:root {
+  --primary-color: #3f248f;
+  --primary-color-light: #e1d4f9;
+  --secondary-color: #c5bddd;
+  --overlay: rgba(0, 0, 0, 0.7);
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}

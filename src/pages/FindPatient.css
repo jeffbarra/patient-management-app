@@ -1,0 +1,12 @@
+.search-patient-container {
+  height: 100vh;
+  padding-top: 100px;
+  background-image: url("../images/background.jpg");
+}
+
+.search-patient-card {
+  height: 100%;
+  border-top-right-radius: 50px;
+  border-top-left-radius: 50px;
+  background-color: white;
+}

@@ -1,0 +1,20 @@
+.home-screen {
+  padding: 20px;
+}
+.today-widget {
+  border: solid 2px var(--primary-color);
+  border-radius: 5px;
+  background-color: var(--primary-color-light);
+  /* filter: drop-shadow(2px 2px 2px rgb(0 0 0 / 0.3)); */
+}
+
+.today-widget-header h1 {
+  margin-bottom: 20px;
+  padding: 20px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 600;
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+}

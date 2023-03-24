@@ -1,0 +1,21 @@
+.signin-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  background-image: url();
+  background-repeat: repeat;
+  background-position: center;
+}
+
+.signin-logo {
+  width: 150px;
+  margin-bottom: 30px;
+}
+
+.google-button {
+  display: flex;
+  margin-top: 80px;
+}

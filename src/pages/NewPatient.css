@@ -1,0 +1,33 @@
+.new-patient-container {
+  height: 100vh;
+  padding-top: 100px;
+  background-image: url("../images/background.jpg");
+}
+
+.new-patient-card {
+  height: 100%;
+  border-top-right-radius: 50px;
+  border-top-left-radius: 50px;
+  background-color: white;
+}
+.new-patient-button {
+  display: flex;
+  justify-content: space-around;
+  cursor: pointer;
+}
+
+.new-patient-button p {
+  text-align: center;
+  font-weight: 500;
+}
+
+.new-patient-button img {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 10px;
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  filter: drop-shadow(1px 1px 1px rgb(0 0 0 / 0.3));
+}

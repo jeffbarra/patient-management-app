@@ -1,0 +1,30 @@
+.home-row {
+  margin-top: 20px;
+}
+.home-icons {
+  display: flex;
+  justify-content: space-around;
+  cursor: pointer;
+}
+
+.home-icons p {
+  text-align: center;
+  padding: 10px;
+  font-weight: 500;
+}
+
+.home-icons img {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 10px;
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  filter: drop-shadow(1px 1px 1px rgb(0 0 0 / 0.3));
+}
+
+.icon-with-text:hover {
+  transition: all 0.3s ease-in-out;
+  transform: scale(1.1);
+}
